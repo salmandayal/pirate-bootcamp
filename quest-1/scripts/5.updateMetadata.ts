@@ -45,9 +45,9 @@ import {
   // define the new token config settings
   const tokenConfig = {
     // new name
-    name: "New Super Sweet Token",
+    name: "New Super SPL TOKEN",
     // new symbol
-    symbol: "nSST",
+    symbol: "nSPLT",
     // new uri
     uri: "https://thisisnot.arealurl/new.json",
   };
